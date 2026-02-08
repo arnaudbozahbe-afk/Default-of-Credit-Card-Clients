@@ -1,4 +1,4 @@
-# 📘 **Default of Credit Card Clients — Group 6 Project**
+# 📘 **Default of Credit Card Clients**
 
 This repository contains the implementation, analysis, and results of our project on **predicting credit card default risk** using machine learning techniques.
 The work is based on the well-known **UCI Default of Credit Card Clients dataset**, containing 30,000 customer records with demographic, financial, and historical payment information.
